@@ -1,4 +1,4 @@
-# threejs-vite-template
+# digital-num
 
 > A native Three.js template built with Vite and TypeScript
 

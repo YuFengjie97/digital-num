@@ -6,8 +6,8 @@ import { gui } from '@/utils/guiPane';
 
 export function getRenderPipeline() {
 
-  const strength = uniform(.3)
-  const radius = uniform(.2)
+  const strength = uniform(.6)
+  const radius = uniform(.1)
   const threshold = uniform(.8) 
 
   const renderPipeline = new THREE.RenderPipeline(renderer);
